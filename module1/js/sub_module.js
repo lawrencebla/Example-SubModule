@@ -1,3 +1,3 @@
 function subModule() {
-	alert("hehehe");
+	alert("hehehe!");
 }
